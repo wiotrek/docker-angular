@@ -19,3 +19,8 @@ docker-compose up --build
 ```
 docker-compose up
 ```
+
+
+Credit from 
+- https://www.arundhaj.com/blog/how-to-run-angular-using-docker-without-installing-node-host-machine.html
+- https://www.youtube.com/watch?v=e4n8Dja5PKo&t=207s
